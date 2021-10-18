@@ -1,2 +1,4 @@
 # hellow-world
-Just trying repository 
+
+I was trying to create a Repsitory
+and a Commit.
